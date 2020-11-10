@@ -19,6 +19,12 @@ Hierarchy
   - Database class : manages all the employees of the company
   - UserInterface class : provides the menu-based interface for interactivity for the user
 
+Compilation and execution
+--------------------------
+emacs
+>compile
+>g++ Database.cpp Employee.cpp UserInterface.cpp -o UI.o
+>./UI.o
 
 ---------------------------------------------------------------
 program inspired by the book C++ professionnal by Marc Gregoire
