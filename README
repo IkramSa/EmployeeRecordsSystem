@@ -1,0 +1,25 @@
+-------------------------
+Employee Records System
+-------------------------
+
+Program to manage a company's employee records
+
+Features
+--------
+ - add an employee
+ - fire an employee
+ - promote an employee
+ - view all employees, past and present
+ - view current employees
+ - view former employees
+
+Hierarchy
+---------
+ - Employee class : encapsulates the informations describing one single employee
+  - Database class : manages all the employees of the company
+  - UserInterface class : provides the menu-based interface for interactivity for the user
+
+
+---------------------------------------------------------------
+program inspired by the book C++ professionnal by Marc Gregoire
+ 
